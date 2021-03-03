@@ -2,5 +2,6 @@
 	"author" : "Rugbug Redfern",
 	"name" : "Rugbug's SUPER COOL map!!!!",
 	"iconURL" : "https://raw.githubusercontent.com/RugbugRedfern/Redmatch2CustomMapTesting/main/hamster.png",
-	"mapURL" : "https://github.com/RugbugRedfern/Redmatch2CustomMapTesting/blob/main/map.zip?raw=true"
+	"mapURL" : "https://github.com/RugbugRedfern/Redmatch2CustomMapTesting/blob/main/map.zip?raw=true",
+	"version" : "1"
 }
